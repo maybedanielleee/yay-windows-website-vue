@@ -19,10 +19,7 @@
           <u>R</u>eddit
         </div>
       </a>
-      <a
-        href="https://www.linkedin.com/in/don-chia"
-        target="_blank"
-      >
+      <a href="https://www.linkedin.com/in/don-chia" target="_blank">
         <div class="bar">
           <img class="social-image" src="@/assets/iPhone-Icons/Linkedin.webp" />
           <u>L</u>inkedIn
